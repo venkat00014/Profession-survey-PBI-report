@@ -24,3 +24,5 @@ This dashboard helps us to understand the data related job market better.  It he
 
 
 In conclusion, this Power BI dashboard offers a comprehensive and interactive analysis of job patterns within the data domain, enabling users to gain valuable insights into salaries, programming languages, and job satisfaction. With its user-friendly interface and intuitive design, users can easily explore and understand complex data. The ability to customize filters and view interactive visualizations enhances the dashboard's utility and accessibility. We hope this tool supports informed decision-making and provides meaningful insights into the data profession landscape. Thank you.
+
+![image](https://github.com/user-attachments/assets/d2b9e4ab-6760-495c-a8f6-0b081ba51c80)
